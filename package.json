@@ -1,0 +1,15 @@
+{
+  "name": "generator-rcd",
+  "version": "0.0.1",
+  "description": "A Yeoman generator for a React Component's directory",
+  "main": "index.js",
+  "author": "Kyle Goggin",
+  "license": "MIT",
+  "files": [
+	  "generators"
+  ],
+  "keywords": ["yeoman-generator"],
+  "dependencies": {
+    "yeoman-generator": "^1.0.0"
+  }
+}
