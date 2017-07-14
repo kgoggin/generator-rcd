@@ -1,1 +1,1 @@
-export { <%= name %> } from './<%= name %>';
+export { default } from './<%= name %>';

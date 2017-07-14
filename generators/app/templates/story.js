@@ -1,6 +1,5 @@
 import React from 'react';
-import { storiesOf } from '@kadira/storybook';
-// import { withKnobs, boolean } from '@kadira/storybook-addon-knobs';
+import { storiesOf } from '@storybook/react';
 
 import <%= name %> from './<%= name %>';
 
